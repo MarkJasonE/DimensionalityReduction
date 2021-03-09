@@ -1,5 +1,4 @@
-# Hands On ML- Part 1, Ch.8 - Support Vector Machines
-
+# Hands On ML- Part 1, Ch.8 - Dimensionality Reduction
 These are notes, code and exercise solutions for chapter 8 from "Hands On Machine Learning" (2nd Edition) by Aurélien Géron
 <br>
 Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646
